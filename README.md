@@ -1,2 +1,2 @@
-# test-public
-Used for secret scanning
+# test-scanning
+Used to test GitHub secret scanning
